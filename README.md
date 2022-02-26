@@ -1,5 +1,5 @@
 ## Self Introduction
--N High School Student
+- N High School Student
 
 -developing libraries of Arduino
 
