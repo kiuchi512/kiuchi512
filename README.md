@@ -1,9 +1,9 @@
 ## Self Introduction
 - N High School Student
 
--developing libraries of Arduino
+- developing libraries of Arduino
 
--Currently making CPU myself
+- Currently making CPU myself
 
 ## tool
 Python/C/Arduino Language
