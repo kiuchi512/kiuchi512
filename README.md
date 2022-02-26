@@ -1,7 +1,7 @@
 ## 👨Self Introduction
 - N High School Student
 
-- Interested engineering and computer science
+- Interested in engineering and computer science
 
 - developing libraries of Arduino
 
