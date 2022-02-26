@@ -1,6 +1,8 @@
 ## 👨Self Introduction
 - N High School Student
 
+- Interested engineering and computer science
+
 - developing libraries of Arduino
 
 - Currently making CPU myself
