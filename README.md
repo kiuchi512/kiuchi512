@@ -5,7 +5,7 @@
 
 - Currently making CPU myself
 
-- Twitter @kiuchi2154
+- Twitter (@kiuchi2154)
 
 ## tool
 Python/C/Arduino Language
