@@ -1,6 +1,9 @@
 ## Self Introduction
-Name: Kiuchi
+-N High School Student
 
-Age: 17
+-developing libraries of Arduino
+
+-Currently making CPU myself
+
 ## tool
 Python/C/Arduino Language
